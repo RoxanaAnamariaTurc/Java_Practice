@@ -1,0 +1,33 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-configurable-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-context-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-http-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-key-util-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-mapper-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-media-type-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-metrics-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-reactive-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-common-service-loader-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-config-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-media-common-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-tracing-config-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/helidon-webserver-2.0.0-M3.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/javax.annotation-api-1.3.2.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-buffer-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-codec-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-codec-http-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-codec-http2-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-common-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-handler-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-transport-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/netty-transport-native-unix-common-4.1.50.Final.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/opentracing-api-0.33.0.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/opentracing-noop-0.33.0.jar",
+        "/Users/roxanaturc/Desktop/helidon_support-main/Helidon/opentracing-util-0.33.0.jar"
+    ]
+}
